@@ -43,7 +43,6 @@ Output CSV file requirements:
   * name
   * department_id
   * title_code
-  * title_name
   * step
   * appt_begin_date
   * appt_end_date
